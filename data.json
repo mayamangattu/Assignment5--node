@@ -1,0 +1,83 @@
+{
+   
+    "widgits": [
+     
+          {
+              "_id": 1,
+              "name": "Breakfast",
+              "meal_type": 1
+          },
+          {
+              "_id": 2,
+              "name": "Lunch",
+              "meal_type": 2
+          },
+          {
+              "_id": 3,
+              "name": "Dinner",
+              "meal_type": 3
+          },
+          {
+              "_id": 4,
+              "name": "Snacks",
+              "meal_type": 4
+             
+          },
+          {
+              "_id": 5,
+              "name": "Drinks",
+              "meal_type": 5
+             
+          },
+          {
+              "_id": 6,
+              "name": "NightLife",
+              "meal_type": 6
+      
+          }
+      ],
+          
+          
+        
+     
+    "restaurants": [
+      { 
+          "id": "6360", 
+          "name": "Gulab", 
+          "city": "Delhi", 
+          "locality": "Pitampura, New Delhi", 
+          "thumb": "https://b.zmtcdn.com/data/pictures/3/6303/640252389ddc3f264dd0e9f2741e73cd.jpg",
+          "aggregate_rating": 4.5, 
+          "rating_text": "Very Good", 
+          "min_price": 230
+    
+        },
+    
+        {
+             "id": "307406",
+             "name": "Pandit Ji Parantha Hut",
+             "locality": "Ashok Vihar Phase 2", 
+             "city": "Delhi", 
+             "thumb": "https://b.zmtcdn.com/data/pictures/5/19295175/231f0337cd9140f230d8208ddde923c9.jpg", 
+             "aggregate_rating": 2.5, 
+             "rating_text": "Very Good",
+             "min_price": 530
+    
+        },
+            
+            
+        {
+            "_id": "459393",
+            "name": "Burger King",
+            "locality": "ShalimarBhag",
+            "city": "Pune",
+            "thumb": "https://b.zmtcdn.com/data/pictures/5/19295175/231f0337cd9140f230d8208ddde723c9.jpg",
+            "aggregate_rating": 4.2,
+            "rating_text": "Very Good",
+            "min_price": 999
+            
+        }
+    ]
+  }
+  
+  
